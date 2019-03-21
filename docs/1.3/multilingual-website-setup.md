@@ -10,7 +10,7 @@ To add a language, click the `Add language` link. Each language has a number of 
 
 Here's an example of a language being added:
 
-![Add language form](http://www.elefantcms.com/files/docs/add-language.png)
+![Add language form](http://www.elefantcms.com/files/docs/add-language.png?)
 
 ## Step 2. Multiple homepages
 
@@ -18,7 +18,7 @@ Once you've adding the languages, the next step is to create a homepage for each
 
 Here's an example of how it should look:
 
-![Language homepage](http://www.elefantcms.com/files/docs/language-homepage.png)
+![Language homepage](http://www.elefantcms.com/files/docs/language-homepage.png?)
 
 We're also going to add a homepage redirection script to tell Elefant to automatically forward visitors to the correct homepage based on their browser language settings.
 
@@ -30,11 +30,11 @@ To do this, log into Elefant and edit the main index page. In the WYSIWYG editor
 
 Here you'll create an additional page or two for each language. For now, just enter some sample content since we'll be using these pages to see that our multilingual navigation is working. For example:
 
-![Language sub-page](http://www.elefantcms.com/files/docs/language-subpage.png)
+![Language sub-page](http://www.elefantcms.com/files/docs/language-subpage.png?)
 
 Once you've created a couple sub-pages for each language, go to Tools > Navigation and create a site tree that looks like this:
 
-![Multilingual site tree](http://www.elefantcms.com/files/docs/multilingual-site-tree.png)
+![Multilingual site tree](http://www.elefantcms.com/files/docs/multilingual-site-tree.png?)
 
 Each language's homepage should be a top-level page, with additional pages for that language appearing under it in the site tree.
 
@@ -52,11 +52,11 @@ To translate these, go back to Tools > Languages and edit the languages. You can
 
 For example, you can search for the text `Members` and translate it like this:
 
-![Translating text](http://www.elefantcms.com/files/docs/translating-text.png)
+![Translating text](http://www.elefantcms.com/files/docs/translating-text.png?)
 
 Now if you visit your website, you'll see that text automatically translated into the correct language for you:
 
-![Translated text](http://www.elefantcms.com/files/docs/translated-text.png)
+![Translated text](http://www.elefantcms.com/files/docs/translated-text.png?)
 
 ## Step 6. Sidebar blocks
 
